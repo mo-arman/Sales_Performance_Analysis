@@ -6,6 +6,10 @@ This report provides an in-depth analysis of the sales performance of employees 
 2. Objective
 The primary objective of this analysis is to evaluate individual and regional sales performance, identify trends, and determine areas for improvement to enhance overall sales efficiency.
 
+## Dataset Used
+ - <a href="https://github.com/mo-arman/Sales_Performance_Analysis/blob/main/Project_1%20Excel.xlsm" alt="Dataset"/>
+
+ 
 3. Data Overview
 
 Total Employees Analyzed: 200
